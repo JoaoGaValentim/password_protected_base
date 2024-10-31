@@ -1,3 +1,5 @@
+src/db/
+src/keys/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,8 +130,6 @@ celerybeat.pid
 env/
 venv/
 ENV/
-src/db/Password.txt
-src/keys/key.key
 env.bak/
 venv.bak/
 
