@@ -2,8 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-src/db
-src/keys
+src/db/
+src/keys/
 
 # C extensions
 *.so
